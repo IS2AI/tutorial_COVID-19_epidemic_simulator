@@ -37,8 +37,8 @@ The metadata folder contains four pickle files that are provided to you to check
 after you complete the tasks.
 
 ### To complete the Epidemic Simulator tutorial, please, do the following steps:
-1. Clone the directory or download zip.
-2. Read the SEIR_simulator_workshop_material.pdf file for four tasks description.
+1. Clone the directory or download in ZIP format.
+2. Read the SEIR_simulator_workshop_material.pdf to complete four tasks.
    1. Write update_coordinate function in the file particles.py
    2. Write plot function in the file particles.py
    3. Write transition function susceptible_to_exposed in the simulator.py
