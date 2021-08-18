@@ -9,7 +9,9 @@
 
 
 ## How to use? 
+
 The simulator model contains three python files:
+
 <img width="661" alt="Files" src="https://user-images.githubusercontent.com/57977216/129843685-8f8b9a38-5e66-4537-857c-b4c849d41db9.PNG">
  
 Open the SEIR_simulator_workshop_material.pdf file to read the task description. Metadata folder contains four pickle files that are provided to you to check your code 
