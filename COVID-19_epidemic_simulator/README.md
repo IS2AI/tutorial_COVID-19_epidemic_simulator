@@ -33,11 +33,11 @@ The simulator model contains three python files:
 
 <img width="661" alt="Files" src="https://user-images.githubusercontent.com/57977216/129843685-8f8b9a38-5e66-4537-857c-b4c849d41db9.PNG">
  
-Metadata folder contains four pickle files that are provided to you to check your code 
+The metadata folder contains four pickle files that are provided to you to check your code 
 after you complete the tasks.
 
-### To complete the Epidemic Simulator workshop, please, do the following steps:
-1. Dowload all the files into the same directory.
+### To complete the Epidemic Simulator tutorial, please, do the following steps:
+1. Clone the directory or download zip.
 2. Read the SEIR_simulator_workshop_material.pdf file for four tasks description.
    1. Write update_coordinate function in the file particles.py
    2. Write plot function in the file particles.py
