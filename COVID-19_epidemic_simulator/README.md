@@ -7,6 +7,21 @@
 
 <img width="609" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129843535-a1a222c7-5b63-4edf-82ea-4c64b2bd1bcb.PNG">
 
+## Requirements:
+
+1. Anaconda3 (with Jupyter included):
+○ https://docs.anaconda.com/anaconda/install/
+2. Spyder IDE:
+○ https://www.spyder-ide.org
+List of packages used in our sessions:
+1. Numpy
+2. Pandas
+3. Scikit-learn
+4. Random
+5. Matplotlib
+6. Tensorflow
+7. Math
+
 
 ## How to use? 
 
