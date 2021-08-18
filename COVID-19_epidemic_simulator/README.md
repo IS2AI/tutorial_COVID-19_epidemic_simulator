@@ -4,28 +4,23 @@ The workshop materials for Epidemic simulator project.
 
 The particle-based SEIR (Susceptible-Exposed-Infected-Recovered) model.
  
-
  
 <img width="626" alt="Particle" src="https://user-images.githubusercontent.com/57977216/129843469-d514ecfe-a637-414e-af0a-ca6f8d6fab42.PNG">
 
+<img width="609" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129843535-a1a222c7-5b63-4edf-82ea-4c64b2bd1bcb.PNG">
+
+
 How to use? 
 The simulator model contains three python files:
+<img width="661" alt="Files" src="https://user-images.githubusercontent.com/57977216/129843685-8f8b9a38-5e66-4537-857c-b4c849d41db9.PNG">
  
-Open the SEIR_simulator_workshop_material.pdf file to read the task description. Metadata folder contains the data for checking the tasks you need to complete.
-References:
-A.	Kuzdeuov et al., "A Network-Based Stochastic Epidemic Simulator: Controlling COVID-19 With Region-	Specific 	Policies," in IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 10, pp. 2743-	2754, Oct. 2020, doi: 	10.1109/JBHI.2020.3005160.
-B.	Kuzdeuov, A. Karabay, D. Baimukashev, B. Ibragimov, and H. A. Varol, “Particle-based covid-19 simulator 	with contact 	tracing and testing,” medRxiv, 2020. [Online]. Available: https: 	//www.medrxiv.org/content/early/2020/12/08/2020.12.07.20245043
-A.Karabay, A. Kuzdeuov, M. Lewis and H.A. Varol, “A Vaccination Simulator for COVID-19: Effective and    	Sterilizing 	immunization cases”, medRxiv, 2021. [Online]. Available: 	https://www.medrxiv.org/content/10.1101/2021.03.28.21254468v1.full
-Link to the Github repository for the original Matlab source code files:
-https://github.com/IS2AI/Particle-Based-COVID19-Simulator
-
+Open the SEIR_simulator_workshop_material.pdf file to read the task description. Metadata folder contains four pickle files that are provided to you to check your code 
+after you complete the tasks.
 
 To complete the Epidemic Simulator workshop, please, do the following steps:
 1. Dowload all the files into the same directory.
 2. Read the document SEIR_simulator_workshop_material. 
 
-The package contains three python files and additional four pickle files that are provided to you to check your code 
-after you complete the tasks.
 
 Particle-based Epidemic Simulator contains four tasks to complete. The description of tasks are provided in the presentation 
 and in the code file itself.
@@ -36,4 +31,17 @@ and in the code file itself.
 
 To check your code, please, run the files particles.py and simulator.py, respectively. 
 In case of the correct answer, "Successfully passed" message will be printed.
+
+References:
+
+
+A.	Kuzdeuov et al., "A Network-Based Stochastic Epidemic Simulator: Controlling COVID-19 With Region-	Specific 	Policies," in IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 10, pp. 2743-	2754, Oct. 2020, doi: 	10.1109/JBHI.2020.3005160.
+
+B.	Kuzdeuov, A. Karabay, D. Baimukashev, B. Ibragimov, and H. A. Varol, “Particle-based covid-19 simulator 	with contact 	tracing and testing,” medRxiv, 2020. [Online]. Available: https: 	//www.medrxiv.org/content/early/2020/12/08/2020.12.07.20245043
+
+A.Karabay, A. Kuzdeuov, M. Lewis and H.A. Varol, “A Vaccination Simulator for COVID-19: Effective and    	Sterilizing 	immunization cases”, medRxiv, 2021. [Online]. Available: 	https://www.medrxiv.org/content/10.1101/2021.03.28.21254468v1.full
+
+Link to the Github repository for the original Matlab source code files:
+
+https://github.com/IS2AI/Particle-Based-COVID19-Simulator
 
