@@ -5,7 +5,12 @@
  
 <img width="626" alt="Particle" src="https://user-images.githubusercontent.com/57977216/129843469-d514ecfe-a637-414e-af0a-ca6f8d6fab42.PNG">
 
-<img width="609" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129843535-a1a222c7-5b63-4edf-82ea-4c64b2bd1bcb.PNG">
+## Statechart of the particle-based SEIR simulator
+
+There are seven states (encoded by a number): susceptible, exposed, infected, severe infected, recovered and dead. 
+
+The state<img width="605" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129844735-565a278d-4f62-47ae-85df-b585597f5afe.PNG">
+
 
 ## Requirements:
 
@@ -19,7 +24,6 @@ List of packages used in our sessions:
 3. Scikit-learn
 4. Random
 5. Matplotlib
-6. Tensorflow
 7. Math
 
 
