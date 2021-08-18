@@ -10,9 +10,9 @@
 ## Requirements:
 
 1. Anaconda3 (with Jupyter included):
-○ https://docs.anaconda.com/anaconda/install/
+ https://docs.anaconda.com/anaconda/install/
 2. Spyder IDE:
-○ https://www.spyder-ide.org
+ https://www.spyder-ide.org
 List of packages used in our sessions:
 1. Numpy
 2. Pandas
@@ -29,12 +29,12 @@ The simulator model contains three python files:
 
 <img width="661" alt="Files" src="https://user-images.githubusercontent.com/57977216/129843685-8f8b9a38-5e66-4537-857c-b4c849d41db9.PNG">
  
-Open the SEIR_simulator_workshop_material.pdf file to read the task description. Metadata folder contains four pickle files that are provided to you to check your code 
+Metadata folder contains four pickle files that are provided to you to check your code 
 after you complete the tasks.
 
 To complete the Epidemic Simulator workshop, please, do the following steps:
 1. Dowload all the files into the same directory.
-2. Read the document SEIR_simulator_workshop_material. 
+2. Read the SEIR_simulator_workshop_material.pdf file for the tasks description.
 
 ## Particle-based Epidemic Simulator contains four tasks to complete. 
 1. Write update_coordinate function in the file particles.py
