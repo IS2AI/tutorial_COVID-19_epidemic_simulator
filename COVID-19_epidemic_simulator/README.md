@@ -9,7 +9,7 @@
 
 There are seven states (encoded by a number): susceptible, exposed, infected, severe infected, recovered and dead. 
 
-The state<img width="605" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129844735-565a278d-4f62-47ae-85df-b585597f5afe.PNG">
+<img width="605" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129844735-565a278d-4f62-47ae-85df-b585597f5afe.PNG">
 
 
 ## Requirements:
