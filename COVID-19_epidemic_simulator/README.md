@@ -1,6 +1,6 @@
 # ISSAI-AUA-Summer-School
 
-##The particle-based SEIR (Susceptible-Exposed-Infected-Recovered) model.
+## The particle-based SEIR (Susceptible-Exposed-Infected-Recovered) model.
  
  
 <img width="626" alt="Particle" src="https://user-images.githubusercontent.com/57977216/129843469-d514ecfe-a637-414e-af0a-ca6f8d6fab42.PNG">
@@ -8,7 +8,7 @@
 <img width="609" alt="SEIR" src="https://user-images.githubusercontent.com/57977216/129843535-a1a222c7-5b63-4edf-82ea-4c64b2bd1bcb.PNG">
 
 
-##How to use? 
+## How to use? 
 The simulator model contains three python files:
 <img width="661" alt="Files" src="https://user-images.githubusercontent.com/57977216/129843685-8f8b9a38-5e66-4537-857c-b4c849d41db9.PNG">
  
@@ -19,7 +19,7 @@ To complete the Epidemic Simulator workshop, please, do the following steps:
 1. Dowload all the files into the same directory.
 2. Read the document SEIR_simulator_workshop_material. 
 
-##Particle-based Epidemic Simulator contains four tasks to complete. 
+## Particle-based Epidemic Simulator contains four tasks to complete. 
 1. Write update_coordinate function in the file particles.py
 2. Write plot function in the file particles.py
 3. Write transition function susceptible_to_exposed in the simulator.py
@@ -28,7 +28,7 @@ To complete the Epidemic Simulator workshop, please, do the following steps:
 To check your code, please, run the files particles.py and simulator.py, respectively. 
 In case of the correct answer, "Successfully passed" message will be printed.
 
-##References:
+## References:
 
 
 A.	Kuzdeuov et al., "A Network-Based Stochastic Epidemic Simulator: Controlling COVID-19 With Region-	Specific 	Policies," in IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 10, pp. 2743-	2754, Oct. 2020, doi: 	10.1109/JBHI.2020.3005160.
