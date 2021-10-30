@@ -163,7 +163,7 @@ if __name__ == "__main__":
     particles = particles.Particles(simulator)
     
     # Load file with the saved simulation results
-    saved_sim = 'saved_simulation_results.p'
+    saved_sim = 'metadata/saved_simulation_results.p'
     with open(saved_sim, 'rb') as filehandler:
         tuple_elements = pickle.load(filehandler)
         
@@ -180,7 +180,7 @@ if __name__ == "__main__":
     time_transition1 = particles.time_cur_state
 
 
-    saved_sim = 'saved_simulation_results.p'
+    saved_sim = 'metadata/saved_simulation_results.p'
     with open(saved_sim, 'rb') as filehandler:
         tuple_elements = pickle.load(filehandler)
         
@@ -199,7 +199,7 @@ if __name__ == "__main__":
 
         
     # Load file for transition checks 
-    transition = 'transitions.p'
+    transition = 'metadata/transitions.p'
     with open(transition, 'rb') as filehandler:
         reloaded_tuple = pickle.load(filehandler)
         
@@ -221,11 +221,3 @@ if __name__ == "__main__":
     else: 
         print("3. Error in infected to recovered status transition check.")
     
-
-
-    
-    
-            
-
-
-            

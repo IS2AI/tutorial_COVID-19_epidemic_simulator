@@ -62,11 +62,9 @@ class Particles():
         i (int): An iteration number
         simulator (class object): An object of class Simulator that contains 
         simulation parameters (e.g. delta_t)
-
         Returns
         -------
         None.
-
         """
 
         self.states = {'exposed': np.where(np.copy(self.epidemic_state)==1, self.epidemic_state, 0), 
@@ -85,12 +83,10 @@ class Particles():
 
     def plot(self, simulator,i):
         """The plot function visualizes the epidemic dynamic curves for each state
-
         Parameters
         ----------
         simulator (class object): An object of class Simulator that contains 
         simulation parameters (e.g. NUMBER_OF_PARTICLES)
-
         Returns
         -------
         A plot figure
@@ -154,8 +150,6 @@ class Particles():
         The function takes simulator, an object of Class Simulator. 
         At each iteration update the coordinate by the distance moved at the current iteration. 
         (Hint: simulator.delta_t is the time a particle spends in each iteration.)
-
-
         Note, the particles must stay inside of the 2D boundaries, set to [-1,1] for both dimensions.
         If a particle reaches one of the borders, it should be sent to the opposite side. 
         For example, if x > 1, then update to x = -1.
@@ -243,7 +237,7 @@ if __name__ == "__main__":
     x_test_5 = particles.x
 
     # Load file for particles velocities and positions update check. 
-    filename = 'particles_v_and_x.p'
+    filename = 'metadata/particles_v_and_x.p'
     with open(filename, 'rb') as filehandler:
         reloaded_tuple = pickle.load(filehandler)
 
@@ -290,11 +284,5 @@ if __name__ == "__main__":
         
 
     # Load dataframe with saved simulation results to check the plot function.
-    particles.df = pd.read_pickle("data_for_plots.p")
+    particles.df = pd.read_pickle("metadata/data_for_plots.p")
     particles.plot(simulator, 25000)
-    
-
-          
-    
-
-          
