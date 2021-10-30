@@ -10,12 +10,14 @@ The following video provides an introduction to the problem of indoor localizati
     
 The video is followed up by the programming part, which is divided into two Jupyter Notebooks:
 1. *indoor_localization_parts_1_2.ipynb*. 
-    - Contains tasks on loading and preprocessing the dataset. 
+    - Loads and preprocesses the dataset. 
     - Walks through predicting of a user's coordinates using randrom forest regression.
-    - Evaluates the model using the mean error distance metric, which is a task to implement.
 3. *indoor_localization_parts_3.ipynb*. 
+    - Loads and preprocesses the dataset. 
     - Introduces a simple multi layer perceptron to predict a user's coordinates
 
+While we provide you all of the Machine Learning code, we ask you to implement a few tasks focused on preprocessing the dataset and evaluating the models.
+If you are interested in the solutions, please contact us (<font color=blue>issai@nu.edu.kz</font>). 
 
 Note, the target values for the test set are withheld. Instead, you are given the validation set to verify your best estimator.
 
