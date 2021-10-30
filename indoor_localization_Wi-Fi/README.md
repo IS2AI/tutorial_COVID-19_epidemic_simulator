@@ -12,8 +12,10 @@ The video is followed up by the programming part, which is divided into two Jupy
 1. *indoor_localization_parts_1_2.ipynb*. 
     - Contains tasks on loading and preprocessing the dataset. 
     - Walks through predicting of a user's coordinates using randrom forest regression.
+    - Evaluates the model using the mean error distance metric, which is a task to implement.
 3. *indoor_localization_parts_3.ipynb*. 
     - Introduces a simple multi layer perceptron to predict a user's coordinates
+
 
 Note, the target values for the test set are withheld. Instead, you are given the validation set to verify your best estimator.
 
