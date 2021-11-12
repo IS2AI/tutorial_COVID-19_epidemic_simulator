@@ -1,8 +1,7 @@
-# ISSAI-AUA-Summer-School
+# The particle-based SEIR (Susceptible-Exposed-Infected-Recovered) simulator.
+ 
+In this tutorial ... 
 
-## The particle-based SEIR (Susceptible-Exposed-Infected-Recovered) model.
- 
- 
 <img width="626" alt="Particle" src="https://user-images.githubusercontent.com/57977216/129843469-d514ecfe-a637-414e-af0a-ca6f8d6fab42.PNG">
 
 ## Statechart of the particle-based SEIR simulator
