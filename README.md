@@ -31,7 +31,7 @@ Activate sim_env:
 
      conda activate sim_env
 
-Run the Spyder IDE in the sim_env environment. 
+Run the Spyder IDE from the sim_env environment. 
 
 
 ## Step 1. The following video provides the overview of the simulator, the particle model and the epidemic state transitions. 
@@ -40,10 +40,12 @@ Click on the image below to watch the video.
 [![video_1](https://github.com/IS2AI/tutorial_COVID-19_epidemic_simulator/blob/main/imgs/Part_1.png)](https://www.youtube.com/watch?v=dUnBlSSeAf4&list=PLYwixe_5vr_m5GpohU4sf7-36IpysZx3f&index=3&ab_channel=ISSAI_NU)
 
 ## Step2. The next video introduces the code structure.
+Click on the image below to watch the video.
 
 [![video_2](https://github.com/IS2AI/tutorial_COVID-19_epidemic_simulator/blob/main/imgs/Part_2.png)](https://www.youtube.com/watch?v=Cj53A-yoXiM&list=PLYwixe_5vr_m5GpohU4sf7-36IpysZx3f&index=4)
 
 ## Step3. The following video contains four programming tasks with solutions.
+Click on the image below to watch the video.
 
 [![video_3](https://github.com/IS2AI/tutorial_COVID-19_epidemic_simulator/blob/main/imgs/Part_3.png)](https://www.youtube.com/watch?v=j-aov6DRRTU&list=PLYwixe_5vr_m5GpohU4sf7-36IpysZx3f&index=5)
 
