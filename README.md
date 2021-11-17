@@ -1,6 +1,13 @@
-# The particle-based SEIR (Susceptible-Exposed-Infected-Recovered) simulator.
+# Tutorial on COVID-19 particle-based Epidemic Simulator
  
-In this tutorial ... 
+In this tutorial, we will implement a program that simulates 
+the spread of the COVID-19 epidemic. We will work on a particle-based SEIR simulator 
+where SEIR is the abbreviation of the four main epidemic states of a particle:
+susceptible, exposed, infected, and recovered. 
+
+The following video provides the overview of the simulator, the particle model and the epidemic state transitions.  
+
+[![video_1](https://github.com/IS2AI/tutorial_COVID-19_epidemic_simulator/blob/main/imgs/Part_1.png)](https://www.youtube.com/watch?v=dUnBlSSeAf4&list=PLYwixe_5vr_m5GpohU4sf7-36IpysZx3f&index=3&ab_channel=ISSAI_NU)
 
 <img width="626" alt="Particle" src="https://user-images.githubusercontent.com/57977216/129843469-d514ecfe-a637-414e-af0a-ca6f8d6fab42.PNG">
 
@@ -25,6 +32,7 @@ List of packages used in our sessions:
 5. Matplotlib
 7. Math
 
+conda-env create -n env_name -f  \path\to\sim_env.yaml
 
 ## How to use? 
 
