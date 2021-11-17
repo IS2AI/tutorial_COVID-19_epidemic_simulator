@@ -25,7 +25,7 @@ We recommend to watch the videos below before diving into the tutorial.
 
 Download the sim_env.yaml file and create a new environment in the Anaconda terminal:
 
-     conda-env create -n sim_env -f  \path\to\sim_env.yml
+     conda-env create -n sim_env -f  \path\to\sim_env.yaml
 
 Activate sim_env:
 
