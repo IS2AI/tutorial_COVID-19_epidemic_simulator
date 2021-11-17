@@ -23,11 +23,12 @@ We recommend to watch the videos below before diving into the tutorial.
  https://www.spyder-ide.org
 
 
-Download the sim_env.yaml file and create a new environmnent in the Anaconda terminal:
+Download the sim_env.yaml file and create a new environment in the Anaconda terminal:
 
      conda-env create -n sim_env -f  \path\to\sim_env.yml
 
 Activate sim_env:
+
      conda activate sim_env
 
 Run the Spyder IDE in the sim_env environment. 
@@ -43,8 +44,6 @@ Click on the image below to watch the video.
 [![video_2](https://github.com/IS2AI/tutorial_COVID-19_epidemic_simulator/blob/main/imgs/Part_2.png)](https://www.youtube.com/watch?v=Cj53A-yoXiM&list=PLYwixe_5vr_m5GpohU4sf7-36IpysZx3f&index=4)
 
 ## Step3. The following video contains four programming tasks with solutions.
-
-The tasks
 
 [![video_3](https://github.com/IS2AI/tutorial_COVID-19_epidemic_simulator/blob/main/imgs/Part_3.png)](https://www.youtube.com/watch?v=j-aov6DRRTU&list=PLYwixe_5vr_m5GpohU4sf7-36IpysZx3f&index=5)
 
